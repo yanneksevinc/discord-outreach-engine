@@ -1,0 +1,6 @@
+discord.py-self
+flask
+aiohttp
+python-dotenv
+pillow
+openai
